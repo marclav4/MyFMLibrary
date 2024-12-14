@@ -1,0 +1,6 @@
+@MyFMLibrary_HostAddress = http://localhost:5150
+
+GET {{MyFMLibrary_HostAddress}}
+Accept: application/json
+
+###
